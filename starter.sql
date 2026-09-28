@@ -10,5 +10,3 @@ BEGIN
     END IF;
 END;
 /
-
-
